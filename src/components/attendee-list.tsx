@@ -91,7 +91,7 @@ export function AttendeeList(){
                     <tfoot>
                         <tr>
                             <TableCell colSpan={3}>
-                                Mostrando {attendees.length} de 200 itens
+                                Mostrando 10 de {attendees.length} itens
                             </TableCell>
                             <TableCell className='py-3 px-4 text-sm text-zinc-300 text-right' colSpan={3}>
 
